@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.zehra.ybu.MainActivity">
+
+
+    <item
+        android:id="@+id/announcements"
+        android:icon="@drawable/megaphone"
+        android:checkable="false"
+        android:orderInCategory="100"
+        android:title="Announcements"
+        app:showAsAction="always" />
+
+</menu>
